@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\Aula2808\obj\Debug\net8.0\Aula2808.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Aula2808\obj\Debug\net8.0\Aula2808.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Aula2808\obj\Debug\net8.0\Aula2808.AssemblyInfo.cs
+C:\Users\fic\Desktop\Aula2808\obj\Debug\net8.0\Aula2808.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Aula2808\bin\Debug\net8.0\Aula2808.exe
+C:\Users\fic\Desktop\Aula2808\bin\Debug\net8.0\Aula2808.deps.json
+C:\Users\fic\Desktop\Aula2808\bin\Debug\net8.0\Aula2808.runtimeconfig.json
+C:\Users\fic\Desktop\Aula2808\bin\Debug\net8.0\Aula2808.dll
+C:\Users\fic\Desktop\Aula2808\bin\Debug\net8.0\Aula2808.pdb
+C:\Users\fic\Desktop\Aula2808\obj\Debug\net8.0\Aula2808.dll
+C:\Users\fic\Desktop\Aula2808\obj\Debug\net8.0\refint\Aula2808.dll
+C:\Users\fic\Desktop\Aula2808\obj\Debug\net8.0\Aula2808.pdb
+C:\Users\fic\Desktop\Aula2808\obj\Debug\net8.0\Aula2808.genruntimeconfig.cache
+C:\Users\fic\Desktop\Aula2808\obj\Debug\net8.0\ref\Aula2808.dll
